@@ -1,4 +1,4 @@
-#Hướng dẫn cái đặt và tổng quan về PHP
+#Hướng dẫn cài đặt và tổng quan về PHP
 1. Khái niệm về php
 **PHP** (Hypertext Preprocessor) là ngôn ngữ script trên server được thiết kế để xây dựng các trang Web động. Mã **PHP** có thể thực thi trên Webserver để tạo ra mã HTML và xuất ra trình duyệt web.
 
