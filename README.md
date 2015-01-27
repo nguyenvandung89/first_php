@@ -111,7 +111,11 @@ Thông thường ta xét quền to nhất cho tất cả các thư mục bằng 
 
 
 3. Những kiến thức căn bản về PHP
+
+
 ######Cú pháp
+
+
 Cú pháp chính của **PHP** như sau
 
 `<?php Mã lệnh PHP ?>`
