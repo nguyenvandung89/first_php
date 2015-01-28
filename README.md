@@ -167,3 +167,11 @@ Ví dụ:
 Kết nối giữa các chuỗi với nhau ta dùng dấu "."
 Ví dụ
 echo "Nguyen"."Van"."Dung";
+## Kết nối dữ liệu mysql và php
+
+```
+<?php
+  $conn = mysql_connect("localhost", "root", "password") or die("can’t connect database");
+  mysql_select_db("test1_mysql", $conn);
+?>
+```
