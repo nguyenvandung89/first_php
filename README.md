@@ -175,3 +175,5 @@ echo "Nguyen"."Van"."Dung";
   mysql_select_db("test1_mysql", $conn);
 ?>
 ```
+
+###Trong các file trên chúng ta có thể biết được các sử dụng cú pháp, vòng lặp và xuất thông tin hay là thao tác với CSDL mysql của php.
